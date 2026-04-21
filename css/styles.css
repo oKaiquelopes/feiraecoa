@@ -1420,7 +1420,8 @@ img { display: block; max-width: 100%; }
   font-family: var(--font-corpo);
   font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.2em;
+  opacity: 0.6;
   text-transform: uppercase;
   color: rgba(240,234,216,0.72);
 }
